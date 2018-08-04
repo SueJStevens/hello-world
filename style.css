@@ -1,0 +1,53 @@
+body {
+    background-color: transparent
+}
+
+h1 {
+    text-align: center
+}
+
+.red {
+    color: red
+}
+
+.blue {
+    color: blue
+}
+
+.green {
+    color: green
+}
+
+.orange {
+    color: orange
+}
+.big {
+    font-size: 200%
+}
+
+.tiny {
+    font-size: 50%
+}
+
+.centered {
+    text-align: center
+}
+
+.bold {
+    font-weight: bold
+}
+
+.fantasyFont {
+    font-family: fantasy
+}
+
+.styledFont {
+    color: green;
+    font-size: 110%;   
+}
+
+#styledImage {
+    border-width: 10px;
+    border-style: solid;
+    border-color: orange;
+}
